@@ -1,5 +1,7 @@
 # 305
 
+![305 coin](https://arweave.net/DDGSZaO3Z8CJL6s1voN57Ra6z78QEY4lV89FJliAXIw)
+
 The first procedurally generated 3d file collection released on the stacks blockchain
 
 - https://www.shaderverse.com/collection/305
